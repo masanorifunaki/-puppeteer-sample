@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csv-stringify": "^4.0.1",
     "delay": "^4.0.1",
+    "iconv-lite": "^0.4.24",
     "puppeteer": "^1.8.0"
   }
 }
