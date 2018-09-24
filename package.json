@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "convert-filename-ja": "^1.0.0",
     "csv-stringify": "^4.0.1",
     "delay": "^4.0.1",
     "dotenv": "^6.0.0",

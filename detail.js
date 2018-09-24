@@ -1,7 +1,7 @@
 'use strict';
 
 const puppeteer = require('puppeteer');
-const stringify  = require('csv-stringify');
+const stringify  = require('');
 const iconv     = require('iconv-lite');
 const fs        = require('fs');
 const path      = require('path');
